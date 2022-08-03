@@ -314,7 +314,7 @@ $(document).ready(function () {
 
 // Google map
 function initMaps() {
-    initMap('map-canvas', {lat: 56.598900, lng: 25.655900}, "Pārceltuve uz svētnīcu");
+    initMap('map-canvas', {lat: 56.601622, lng: 25.662042}, "Pārcelšanās uz svētnīcu");
     initMap('map-canvas-wedding', {lat: 56.811758, lng: 26.566291}, "Atpūtas un tūrisma centrs \"Ezernieki\"");
 }
 
